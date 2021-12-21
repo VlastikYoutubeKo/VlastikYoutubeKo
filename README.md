@@ -4,7 +4,9 @@
 - 👀 I’m interested in hosting discord bots :trollface:
 - 🌱 I’m currently learning Node.JS & Python
 - 💞️ I’m looking to collaborate on almost anything
-- 📫 How to reach me? [**PlainHost Support**](https://plainhost.xyz/support), [**Email**](mailto:owner@plainhost.xyz) and [**PlainHost tickets**](https://support.plainhost.xyz)
+- 📫 How to reach me? [**Email**](mailto:mapy.od.fanousku@post.cz)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plainhost)
 
 <!---
 VlastikYoutubeKo/VlastikYoutubeKo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
