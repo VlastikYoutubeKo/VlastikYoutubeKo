@@ -8,6 +8,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plainhost)
 
+
+[![Peer2Profit.com! Earn money by sharing internet!](https://peer2profit.com/img/promo/en/p2p-banner-1000x120.png)](https://peer2profit.com/r/1644936969620bbf090b420/en?campaign=github)
+
 <!---
 VlastikYoutubeKo/VlastikYoutubeKo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
