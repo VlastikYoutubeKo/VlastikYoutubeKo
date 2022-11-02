@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @VlastikYoutubeKo (Plainrock127, Vlastimil Novotný), from :czech_republic:
 
-[![Discord Profile](https://discord.c99.nl/widget/theme-3/696826147081814027.png)](https://plainrock127.xyz)
+[![Discord Profile](https://discord.c99.nl/widget/theme-1/1034576796617805845.png)](https://plainrock127.xyz)
 - 👀 I’m interested in hosting discord bots :trollface:
 - 🌱 I’m currently learning Node.JS & Python
 - 💞️ I’m looking to collaborate on almost anything
