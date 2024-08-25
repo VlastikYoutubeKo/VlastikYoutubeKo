@@ -9,9 +9,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vlastimilnovotny)
 
+**[Donate](https://www.anycoin.cz/donate/mxnticek)**
 
-[![Peer2Profit.com! Earn money by sharing internet!](https://eyo-vlastikyoutubeko.vercel.app/api/now-playing.svg)](http://url.wz.sk/ref3)
-[![IPRoyal Pawns! Earn money by sharing your bandwith!](https://cdn.discordapp.com/attachments/1112780251009908858/1167198394532499496/Pawns.app_referral_728x90.png)](https://pawns.app/?r=menticek)
+
 <!---
 VlastikYoutubeKo/VlastikYoutubeKo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
