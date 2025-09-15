@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @VlastikYoutubeKo (Plainrock127, mxnticek, Vlastimil Novotný), from :czech_republic:
+## 👋 Hi, I’m @VlastikYoutubeKo (mxnticek, Vlastimil Novotný), from :czech_republic:
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/696826147081814027?idleMessage=Probably%20not%20doing%20anything&animated=true&showDisplayName=true&theme=dark)](https://discord.com/users/696826147081814027)
@@ -9,7 +9,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vlastimilnovotny)
 
-**[Donate](https://www.anycoin.cz/donate/mxnticek)**
+**[Donate](https://www.anycoin.cz/donate/mxnticek)** | **[All links](https://donate.odjezdy.online)**
 
 
 <!---
